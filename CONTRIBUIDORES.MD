@@ -17,6 +17,7 @@
 * @Igorth
 * @isabelarrsilva
 * Izabela Borges (@izabelacborges)
+* Jaime Oliveira (@ojaimeoliveira)
 * Jessica Temporal (@jtemporal)
 * Jessica Rodrigues (@jessicatcr)
 * José Ferraz Neto (@zeneto)
